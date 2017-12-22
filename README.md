@@ -1,2 +1,2 @@
-# RCOM-a-arder
-Gas Gas Gas
+# RCOM - FEUP
+Computer Networks class - Project 1 & 2
